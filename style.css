@@ -1,0 +1,29 @@
+* {
+	font-family: 'Comfortaa', cursive;
+}
+
+body {
+	visibility: hidden;
+}
+
+.wrapper {
+	padding: 10px 0;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.col-md {
+	outline: 1px solid red;
+}
+
+.wrapper {
+	width: 375px;
+	height: 667px;
+	outline: 1px solid dark;
+}
+
+td span {
+	padding: 5px !important;
+}
